@@ -6,24 +6,20 @@
 # Basic site settings.
 locale: "nl"
 timezone: Europe/Amsterdam
-domain: "ieni.org"
+domain: "www.onslesmateriaal.nl"
 baseurl: "/"
 url: ""
 
 # Page content variables.
-title: "Vakvereniging i&amp;i"
-short: "i&amp;i"
-description: "Vakvereniging i&amp;i maakt zich sterk voor een structureel aanbod van kwalitatief
-hoogwaardig onderwijs ten behoeve van informatica en digitale geletterdheid op alle basis- en
-middelbare scholen in Nederland. Iedereen die zich vanuit welke functie dan ook betrokken voelt
-bij informatica en digitale geletterdheid in het onderwijs verwelkomen wij graag als lid."
-legal: "Vereniging voor Informatiekunde en Informatietechnologie in Onderwijs"
+title: "Ons Lesmateriaal"
+short: "OLM"
+description: "Onder het motto “ons lesmateriaal - passend en professioneel” werkt een community van informatica-docenten en andere experts aan open leermateriaal voor de keuzethemas van het vak informatica in het VO. Deze community wordt georganiseerd door de vakvereniging i&i - voor docenten informatica en digitale geletterdheid. Het startschot voor deze community is gegeven op de i&i conferentie van 10 november 2022. Met deze community wil i&i het eigenaarschap van dit lesmateriaal zoveel mogelijk bij de docenten leggen. Op deze website zijn de actuele ontwikkelingen rond deze community te volgen."
 kvk: "KvK 40481134 te Utrecht"
 
 # Landing page hero variables.
 hero:
-  title: "Informatica is de Toekomst."
-  lead: "Vakvereniging voor informatica & digitale geletterdheid in het Nederlands Onderwijs."
+  title: "De kracht van de community."
+  lead: "Met Ons Lesmateriaal wordt het materiaal van ons, docenten en leerlingen informatica."
 
 # Social variables.
 twitter: "@ieni"

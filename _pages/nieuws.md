@@ -1,6 +1,6 @@
 ---
 title: "Nieuws"
-lead: "Het laatste nieuws van de vakvereniging."
+lead: "Het laatste nieuws rondom onze community"
 layout: page
 header: "/assets/img/content/news_page_header.jpg"
 order: 3
