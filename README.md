@@ -1,7 +1,7 @@
-# [ieni.org](https://ieni.org)
+# [onslesmateriaal.org](https://onslesmateriaal.nl)
 
 ## About
-This is the repository containing the website of the Dutch Computer Science Teacher's Association.
+This is the repository containing the website of Ons Lesmateriaal ('our teaching materials)
 
 ## Contributing
 For suggestions, issues or feedback please head over to the [issue tracker](https://github.com/ieni/website/issues).
