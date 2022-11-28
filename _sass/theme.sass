@@ -7,7 +7,7 @@ body
   color: $text-color
 
   p, li
-    font-size: $text-size
+    font-size: $text-size*1,7
     font-family: $text-fonts
 
   a
@@ -79,19 +79,19 @@ body
   background-size: cover
 
   .header-title
-    font-size: 4.5rem
+    font-size: 3rem
 
     @media (max-width: 425px)
       font-size: 3.2rem
 
   &.header-index
-    padding-top: 4.78em
+    padding-top: 1.78em
 
     .header-title
       max-width: 500px
 
     .header-lead
-      max-width: 700px
+      max-width: 350px
 
   .header-contents
     padding-top: $padding-unit
@@ -102,8 +102,8 @@ body
       font-weight: 700
 
     .header-lead
-      font-size: $text-size*1.8
-      font-weight: 200
+      font-size: $text-size*1.5
+      font-weight: 150
       max-width: 700px
 
       @media (max-width: 425px)
@@ -126,7 +126,7 @@ body
     left: 0
     height: 100%
     width: 100%
-    background-color: rgb(0, 158, 243)
+    background-color: $color-brand
     opacity: .7
 
 
@@ -164,7 +164,7 @@ body
           padding-right: .5em
 
     p
-      font-size: $text-size*1.1
+      font-size: $text-size*1.2
 
   ul
     padding-start: 1.5em
@@ -185,7 +185,7 @@ body
  **********/
 
 #footer
-  //padding-top: $padding-unit*1.5
+  //padding-top: $padding-unit*1
   margin-top: $padding-unit*1.5
   //background-color: $color-grey-2
   color: $color-grey
@@ -229,7 +229,7 @@ body
 .theme-callout
   background-color: $color-brand
   padding: 5em
-  margin-top: 3em
+  margin-top: 1em
   color: $color-white
 
   position: relative
@@ -262,8 +262,8 @@ body
     left: 0
     height: 100%
     width: 100%
-    background-color: rgb(0, 158, 243)
-    opacity: .7
+    background-color: $background-color
+    opacity: 0
 
   @media (max-width: 991px)
     padding-left: 1em
